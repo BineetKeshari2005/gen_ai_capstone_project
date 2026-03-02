@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer Churn Prediction.
 A machine learning project that predicts customer churn for an E-commerce platform using the E-Commerce Customer Churn Dataset. The project compares Logistic Regression, Random Forest, and XGBoost models, with **XGBoost** achieving the best performance (Accuracy = 0.97, F1-Score = 0.89).
 
 [Live Demo](https://gen-ai-capstone-project.streamlit.app/)
@@ -87,7 +87,7 @@ This project performs an end-to-end machine learning pipeline to predict custome
 | **XGBoost** | High-performance boosting model |
 | **Streamlit** | Web application framework |
 | **Matplotlib / Seaborn** | Data visualization |
-| **Joblib** | Model creation |
+| **Joblib** | Model persistence |
 
 ## Project Structure
 ```
