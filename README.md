@@ -87,7 +87,7 @@ This project performs an end-to-end machine learning pipeline to predict custome
 | **XGBoost** | High-performance boosting model |
 | **Streamlit** | Web application framework |
 | **Matplotlib / Seaborn** | Data visualization |
-| **Joblib** | Model persistence |
+| **Pickle** | Model creation |
 
 ## Project Structure
 ```
